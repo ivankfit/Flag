@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Frag</string>
+    <string-array name="items">
+        <item>Fruits</item>
+        <item>Vegetables</item>
+        <item>Clothes</item>
+        <item>Shoes</item>
+    </string-array>
+    <string-array name="description">
+        <item>We have all types of Fruits in all quantities at affordable prices, never you bypass minus buying</item>
+        <item>We sell all kinds of vegetables at good and affordable prices, please come and taste the feeling</item>
+        <item>All types of clothes are available at affordable prices, let you not wait for chrismass, mbarara main market has made it</item>
+        <item>We sell to you all styles of shoes at good and affordable price, please come and make your selection</item>
+    </string-array>
+</resources>
